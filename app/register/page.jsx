@@ -12,7 +12,7 @@ export default function RegisterForm() {
   return (
     <div className="flex flex-col justify-center items-center min-h-screen p-4">
       <div className="bg-white rounded-xl shadow-lg w-full max-w-[1050px] py-16 md:py-24">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 px-4 md:px-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 px-4 mr-10 md:px-8">
           <div className="flex justify-center items-center order-2 md:order-1">
             <Image
               src="/profile.png"
